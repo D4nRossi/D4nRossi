@@ -5,7 +5,6 @@
 - 🌱 Estudando C#
 
 <div align="center" style="display: flex" style="flex-direction: row">
-  <a href="https://danielrossi.netlify.app/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4nRossi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D4nRossi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
