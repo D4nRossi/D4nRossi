@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando de Staff de Sistemas e Automação na <a href="https://teleperformance.com.br" target="_blank">Teleperformance</a>
-- 🌱 Estudando NodeJs, Bootstrap
+- 🌱 Estudando C#
 
 <div align="center" style="display: flex" style="flex-direction: row">
   <a href="https://danielrossi.netlify.app/">
