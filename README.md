@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando como Analista de Sistema Pl. na <a href="https://teleperformance.com.br" target="_blank">Teleperformance</a>
-- 🌱 Estudando C#
+- 🌱 Estudando .NET Framework Core C#
 
 <div align="center" style="display: flex" style="flex-direction: row">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D4nRossi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
