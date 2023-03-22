@@ -1,7 +1,7 @@
 ### Salve! Eu sou Daniel Rossi de Amorim
 
 
-- 🔭 Atualmente trabalhando como Analista de Sistema Pl. na <a href="https://teleperformance.com.br" target="_blank">Teleperformance</a>
+- 🔭 Atualmente trabalhando como Assistente de Sistemas - GERAL na <a href="https://teleperformance.com.br" target="_blank">Teleperformance</a>
 - 🌱 Estudando .NET Framework Core C#
 
 <div align="center" style="display: flex" style="flex-direction: row">
