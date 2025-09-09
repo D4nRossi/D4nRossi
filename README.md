@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/danielrossi2002/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danielrossi2002-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/danielrossi.png"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@danielrossi.png-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="[https://discord.gg/PnCh8H6WwJ](https://discord.gg/M2P2pzazpG)"><img alt="Discord" src="https://img.shields.io/badge/Discord-Olimpo-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/M2P2pzazpG"><img alt="Discord" src="https://img.shields.io/badge/Discord-Olimpo-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 ---
